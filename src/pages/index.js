@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
 
-    <div style={{textAlign:"center"}}>
+    <div style={{textAlign:"center", fontFamily:"Helvetica,sans-serif", fontSize:"2em", lineHeight: "1em"}}>
 
       <StaticImage
         src="../images/hidden-workforce.png"
@@ -19,12 +19,7 @@ const IndexPage = () => (
         style={{ marginBottom: `1.45rem` }}
       />
 
-      <p>Hidden Workforce is a network of contract/freelance software developers, architects &amp; testers.</p>
-      <p>Our members can scale up for larger projects, and add credibility to contractual substitution clauses.</p>
-      <p>This means we all remain independent, whilst being able to move beyond personal service if required.</p>
-
-
-
+      <p>Hidden Workforce is a network of contract &amp; freelance software developers, architects &amp; testers.</p>
 
     </div>
 
