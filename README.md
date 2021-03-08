@@ -1,3 +1,5 @@
+![logo](https://github.com/teksidia/hiddenworkforce-landing/blob/master/src/images/hidden-workforce.png)
+
 # Hidden Workforce #
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f928f5a-9060-4968-b22c-3d2c0d54106e/deploy-status)](https://app.netlify.com/sites/sharp-bhaskara-334132/deploys)
